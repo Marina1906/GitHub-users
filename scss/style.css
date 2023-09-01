@@ -1,0 +1,22 @@
+.btn {
+  color: var(rgb(232, 93, 86));
+  font-size: var(32px);
+}
+
+h1 {
+  color: var(rgba(241, 37, 234, 0.267));
+}
+
+.result {
+  color: var(rgb(232, 93, 86));
+}
+
+.card-img {
+  width: 300px;
+}
+
+body {
+  background-color: var(rgb(232, 93, 86));
+}
+
+/*# sourceMappingURL=style.css.map */
